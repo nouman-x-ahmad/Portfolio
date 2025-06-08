@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "fas fa-robot",
+    "tags": ["Python", "ML", "TensorFlow"],
+    "title": "Intellilolllllllgent Course Recommender",
+    "description": "ML system that recommends university courses based on student interests and academic history.",
+    "url": "#"
+  },
+  {
+    "icon": "fas fa-mobile-alt",
+    "tags": ["React Native", "Firebase", "JavaScript"],
+    "title": "Campus Connect Mobile App",
+    "description": "Social platform for university students to connect, share resources, and join study groups.",
+    "url": "#"
+  },
+  {
+    "icon": "fas fa-lock",
+    "tags": ["Java", "Encryption", "Security"],
+    "title": "Secure File Transfer Protocol",
+    "description": "Custom implementation of SFTP with enhanced security features for academic use.",
+    "url": "#"
+  }
+]
